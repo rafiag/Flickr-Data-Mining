@@ -6,5 +6,6 @@ In this project I try to use geotagged photo from Flickr to understand the chara
 1. Markov_Chain_Modelling: build markov chain model to see how tourist likes to move from one cluster to another.
 
 Here are a couple of visualization result I did for this project:
+<img src="/Image/Markov Chain.png" alt="Markov chain visualization" width="200"/>
 ![Clustering visualization](https://raw.githubusercontent.com/rafiag/Flickr-Data-Mining/master/Image/DBSCAN%20(0.4%2C%201800).png)
-![Markov chain visualization](/Image/Markov Chain.png)
+![Markov chain visualization](https://raw.githubusercontent.com/rafiag/Flickr-Data-Mining/master/Image/DBSCAN%20(0.4%2C%201800).png)
